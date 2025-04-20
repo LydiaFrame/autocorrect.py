@@ -1,0 +1,4 @@
+teh=the
+yuo=you
+wnat=want
+hppay=happy
